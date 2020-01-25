@@ -1,3 +1,3 @@
 # Practice work assessment - Programming Languages II -Prof. Pedro Alves
 
-![texto](https://github.com/a21900126/LP2-21900126/blob/master/diagrama.png)
+![alt text](https://github.com/acr1618/object-oriented-practice-board-game/blob/master/diagram.png)
